@@ -36,7 +36,7 @@ I'm a passionate and driven Computer Science student at **Instituto Superior Té
   <img src="https://img.shields.io/badge/WSL-23282C?style=flat-square&logo=windows&logoColor=white" />
 </p>
 
-### Operating Systems 
+### Tools 
 
 <p align="left">
   <img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white" />
