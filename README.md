@@ -50,8 +50,8 @@ I'm a passionate and driven Computer Science student at **Instituto Superior Té
 
 ## Repository Highlights ⭐
 
-- **Computer-Science-IST:** Contains the main projects and practical exercises from my time at Instituto Superior Técnico.
-- **NesTypes:** A side project—a typing website born out of my passion for touch typing.
+- **[Computer Science IST](https://github.com/InesCadete/Computer-Science-IST):** Contains the main projects and practical exercises from my time at Instituto Superior Técnico.
+- **[NesTypes](https://github.com/InesCadete/NesTypes):** A side project—a typing website born out of my passion for touch typing.
 
 📌 **Feel free to explore these projects and more on my [GitHub profile](https://github.com/InesCadete)!** 🚀
 
