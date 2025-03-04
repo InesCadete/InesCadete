@@ -5,7 +5,7 @@ I'm a passionate and driven Computer Science student at **Instituto Superior Té
 ## About Me
 
 - 👨‍💻 **Optimization Enthusiast:** I have a strong interest in developing efficient, optimized solutions.
-- 🌐 **Portfolio:** Visit my [website and portfolio](your-website-url) to see my work.
+- 🌐 **Portfolio:** Visit my [website and portfolio](https://inescadete.github.io/Portefolio/) to see my work.
 - 📜 **CV:** Check out my [CV](https://inescadete.github.io/CV/) for a detailed look at my background.
 - 🎓 **Education:**
   - Currently studying Computer Science (LEIC) at Instituto Superior Técnico.
