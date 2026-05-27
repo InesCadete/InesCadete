@@ -1,6 +1,7 @@
 # Hello there, I'm Inês Cadete 👋
+Currently I am working in data analytics with Snowflake and dbt, however, I have multiple projects from other areas related to my background in Computer Science and Engineering course, most of which are available here.
 
-I'm a passionate and driven Computer Science student at **Instituto Superior Técnico, Lisbon, Portugal**. I enjoy tackling complex challenges and improving decision-making through technology and critical thinking.
+I'm also a passionate and driven Computer Science student at **Instituto Superior Técnico, Lisbon, Portugal**. I enjoy tackling complex challenges and improving decision-making through technology and critical thinking.
 
 ## About Me
 
